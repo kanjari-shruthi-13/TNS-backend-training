@@ -7,9 +7,9 @@ public class StudentMain {
 		s.print();
 		
 		Student s1 = new Student();
-		s1.rollno = 404;
-		s1.sname ="poojitha";
-		s1.branch = "ECE";
+		s1.rollno = 663;
+		s1.sname ="sushma";
+		s1.branch = "AIML";
 		s1.print();
 		
 		
